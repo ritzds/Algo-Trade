@@ -1,3 +1,4 @@
 # Algo-Trade
 
-![](images/Screenshot%202022-06-25%20121502.png)
+![](Images/1.png)
+![](Images/2.png)
